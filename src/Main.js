@@ -9,8 +9,8 @@ function Main() {
        <nav>
       <header className='z8'>
           <ul className='z9'>
-             <Link to="home" className='z10'>Home</Link> 
-              <Link to="login" className='z10'>Login</Link>
+             <Link to="home" className='z10'>contact us</Link> 
+              <Link to="login" className='z10'>Login form</Link>
          </ul>
        </header>  
         </nav>
